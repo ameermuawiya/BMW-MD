@@ -1,9 +1,9 @@
 {
-  "name":"V-6-BMW-XMD",
-  "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"V-6-𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀",
+  "description":"Bmw was developed by 𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
-  "repository":"https://github.com/ibrahimaitech/BMW-MD",
+  "logo":"https://i.ibb.co/Cb81NxN/251.jpg",
+  "repository":"https://github.com/ameermuawiya/BMW-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
+      "value":" 𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
+      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4","https://i.ibb.co/Cb81NxN/251.jpg",
       "required":false
        
      },
@@ -67,23 +67,23 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEFMUUVoNFdoSlFIRkhJUTdrbFVlZ2JGRzRSakVXaEpuTDk5amN5V3Fraz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibUJXSnI4RGdOTXJMSG5MRzJrVHNTTzBVTy9VR0lQbjFHMkhKUlNtcGFRUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2TjNwWUdkdjF6WmsveHRiU2xPTkdxeW9aNjAzWUVPQ0N1ejAxM1l3d1dzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJoRjM2Q1c2MXdxTzVMcG9UWG92dyt1MXFKSU9hWnFKNkZ0Ynkyb3ZMQ0hzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVNZXN1RjBkenQ3WmoxTmo1OWNkY2VkejRDU1hlOE9ZRGtNUVYzdUk5bTA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjN5Wi9xY2NUbnovbjRFMG9RODljNGpZbjgzSTBvMk5vWVhUN3BVbzFueVE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY005dGtkRWM1b3FYc1IwOWloSUxmMzR4NEsydDNMUzYwZTFjYmM5NWpIYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidEp2TXlnVHEyckxDdk9CTW5kL0JSbEJPRHRPWXM1RTdzSTdwaFo2b25qVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJWKzJ2SjV6d1VoOGQ1VjdkclNaK1lOVHpIYWN1L0NWY2luUnVHMDJITmpJY0U2L3Z1dTFmUEltVGE1UWh1TkJaWFU4NklXNElENlFqWk9ybzlMTGp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTc1LCJhZHZTZWNyZXRLZXkiOiJGNEk1cGFTclpJT2NYMnRPSUNlUVVkK3JKNHN1SWU2TFltanJaOFVMTVZvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJRN2VlQi1nU1F6eTFvVkRMTDN4UUx3IiwicGhvbmVJZCI6IjBkZmRmOWEzLWRlOGQtNGMxOS1hMTM1LTM2Y2E3ZjNhMmM3ZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrUWF4RnliTmVPWFJoOU9pd2xSUHZuMENOOTA9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZDVUam5OUGRXTXZ3czV4L0FlK1VmTWE3a3ZrPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjJMVjJWV0gzIiwibWUiOnsiaWQiOiI5MjM0MjMwNzExMzc6MTBAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01QQ2lzZ0NFTWF2dkxRR0dBZ2dBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InNLQXIwWkxqVmthQUtMVkpGWWtHODlvSlF6eTU3L3dzNDkyYkJNWjhWSE09IiwiYWNjb3VudFNpZ25hdHVyZSI6IkNnbE1xTGkvVmZmWEovL3ZlQ1c5Z0hwWnFIK2ZqQTcvTmV6bGh4WFA3VVYyNENrMEh0Q1BydTAxT0h3SmJzRjdvTGVSYlFsSVM1NzZhNk42bHZ0N0NnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ3UE5ML2dkcW1nMkJjd05Ca1hvYTNMbHczZExhMCs3ejd3WDU0SXJJbkgxbWNQUU5Rbm5HK012RG1JZUUxS3VDMVZBazNpUGFwSmtHN1ZOemFqNHpodz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzQyMzA3MTEzNzoxMEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJiQ2dLOUdTNDFaR2dDaTFTUldKQnZQYUNVTTh1ZS84TE9QZG13VEdmRlJ6In19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIwNjUzNzc4LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUZ1eiJ9",
       "required":true
       
     },
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Type here your name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "923423071137,923472207399"
   },
     "WARN_COUNT":
   {
@@ -104,7 +104,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
